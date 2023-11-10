@@ -1,6 +1,6 @@
 Algoritmo "exercicioEpag41"
 // Disciplina: [Lógica de Programação]
-// Professor: Jailson
+// Professor: Jailson 
 // Descrição: e. Efetuar a leitura de três valores (variáveis A, B e C) e
 //            efetuar o cálculo da equação completa de segundo grau, apresentando as duas
 //            raízes, se para os valores informados for possível efetuar o referido
@@ -8,11 +8,11 @@ Algoritmo "exercicioEpag41"
 // Autor(a): Stephany Marciano Dias
 // Data atual: 07/09/2023
 Var
-// Seção de Declarações das variáveis
+// Seção de Declarações das variáveis 
 a, b, c, delta, raiz1, raiz2: real
 
 Inicio
-// Seção de Comandos, procedimento, funções, operadores, etc...
+// Seção de Comandos, procedimento, funções, operadores, etc... 
 Escreval("Digite o valor de A: ")
 Leia(A)
 
